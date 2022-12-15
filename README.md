@@ -1,2 +1,10 @@
 # Machine_Learning
-Covid-19-models
+
+#Lifescience Python Programmers
+
+Covid-19 machine learning model building using SKlearn
+Predict the mortaility of the patient with the help of available clinical information
+
+Download the data file and the python codes file and try to run the codes in your system
+This is purly for learning purposes.
+All the best!
